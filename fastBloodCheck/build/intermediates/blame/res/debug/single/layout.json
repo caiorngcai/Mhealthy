@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\heart_listen.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\heart_listen.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_host.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\main_tab_host.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\bloodpressure_layout.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\bloodpressure_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\photoes_take.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\photoes_take.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\login_layout.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\login_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\bloodsugar_layout.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\bloodsugar_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\photoes_save.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\photoes_save.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\file_manager_layout.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\file_manager_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\device_use_help_details.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\device_use_help_details.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\system_help_layout.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\system_help_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\register_layout.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\register_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "D:\\Android\\Android_workspace\\Mhealthy\\fastBloodCheck\\src\\main\\res\\layout\\test.xml"
+    }
+]
